@@ -11,6 +11,12 @@ This repo will have a collection of front end resources such as technologies, an
 
 -------
 
+## Resourcefull Sites
+> **UI Snippets**
+>- Code My UI : https://codemyui.com/
+
+-------
+
 ## Angular
 > **Angular Referances**
 >- Angular 1.X (Advance Referance Guide) : https://ngcourse-1.rangle.io/
